@@ -18,7 +18,6 @@ Feature distribution analysis
 Data visualization using charts and plots
 
 **Tools and Libraries**. <br>
-
 Python
 Pandas
 NumPy
